@@ -5,10 +5,6 @@
 
 Damage calculator for all generations of Pokémon battling.
 
-If you are currently looking at [smogon/damage-calc][0] and not
-a fork, this is the official repository for the Pokémon Showdown! damage calculator:
-https://calc.pokemonshowdown.com.
-
 This repository houses both the package implementing the core damage formula mechanics in each
 generation ([`@smogon/calc`][1]) as well as [logic and markup for the official UI][2].
 

@@ -54608,12 +54608,12 @@ SETDEX_SV = {
       "level": 100,
       "ability": "Unaware",
       "item": "Heavy-Duty Boots",
-      "nature": "Impish",
+      "nature": "Bold",
       "teraType": "Water",
       "evs": {
         "hp": 248,
         "df": 128,
-        "sd": 128
+        "sp": 128
       },
       "moves": [
         "Torch Song",

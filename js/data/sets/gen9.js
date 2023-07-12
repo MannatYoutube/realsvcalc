@@ -22057,7 +22057,7 @@ SETDEX_SV = {
       "level": 100,
       "ability": "Purifying Salt",
       "item": "Leftovers",
-      "nature": "Calm",
+      "nature": "Careful",
       "teraType": "Water",
       "evs": {
         "hp": 252,
